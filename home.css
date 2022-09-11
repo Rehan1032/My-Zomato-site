@@ -291,23 +291,3 @@ select{
       }
 
   
-
-    @media screen and (max-width:1400px){
-        /* body{
-            background-color:rgb(187, 243, 197);
-           
-        } */
-        #list1{
-            width: 325px;
-        }
-    }
-
-    @media screen and (min-width:400px){
-        /* body{
-            background-color:rgb(233, 187, 243);
-           
-        } */
-        #list1{
-            width: 227px;
-        }
-    }
